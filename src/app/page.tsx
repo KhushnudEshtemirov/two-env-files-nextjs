@@ -1,3 +1,5 @@
+"use client";
+
 export default function Home() {
   console.log(process.env.DOMAIN);
 
